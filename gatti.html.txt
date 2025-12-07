@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="gatti">
+<h1> Il Mondo dei Gatti</h1>
+
+<p class="ciao" >I gatti sono animali domestici affascinanti e misteriosi. La loro grazia e indipendenza li rendono irresistibili.</p>
+
+<div>
+    <p class="ciao" >Le curiosità sui gatti:</p>
+    <ul>
+        <li>I gatti possono saltare fino a 6 volte la loro altezza.</li>
+        <li>Un gruppo di gatti è chiamato una "clowder" o una "glaring".</li>
+        <li>I gatti possono dormire fino a 16 ore al giorno.</li>
+        <li>Il ronzio dei gatti, noto come "purr", ha proprietà terapeutiche.</li>
+    </ul>
+
+</div>
+
+<p class="ciao" >I gatti sono meravigliosi compagni e portano gioia nelle case di milioni di persone in tutto il mondo.</p>

@@ -1,0 +1,18 @@
+
+h1 {
+    color:#ff5733 ;
+    font-family: Arial,Sans-Serif;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1,4;
+    margin: 20px;
+
+}
+
+body {
+    background-color:#ffebcd;
+}
+
+.ciao {
+    color: #0077b6;
+}
